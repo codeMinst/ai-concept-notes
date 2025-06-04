@@ -16,7 +16,7 @@
 
 ## 📄 마크다운 정리 목록
 
-- [Cosine Similarity](./dcosine_similarity.ipynb)
+- [Cosine Similarity](./cosine_similarity.ipynb)
 - [Dot Product](./dot_product.ipynb)
 - [Differentiation as Gradient](./perspectives_on_differentiation.ipynb)
 - [Softmax Function](./softmax.ipynb)
