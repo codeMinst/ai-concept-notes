@@ -16,10 +16,11 @@
 
 ## 📄 마크다운 정리 목록
 
-- [Cosine Similarity](./docs/cosine_similarity.md)
-- [Dot Product](./docs/dot_product.md)
-- [Differentiation as Gradient](./docs/perspectives_on_differentiation.md)
-- [Softmax Function](./docs/softmax.md)
+- [Cosine Similarity](./dcosine_similarity.ipynb)
+- [Dot Product](./dot_product.ipynb)
+- [Differentiation as Gradient](./perspectives_on_differentiation.ipynb)
+- [Softmax Function](./softmax.ipynb)
+- [LLM_Tokenizer and Embedding](./llm_tokenizer_&_embedding.ipynb)
 
 ---
 
